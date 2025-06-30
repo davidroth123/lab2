@@ -1,0 +1,45 @@
+2025-06-30T03:03:02.0884675Z Current runner version: '2.325.0'
+2025-06-30T03:03:02.0917136Z ##[group]Runner Image Provisioner
+2025-06-30T03:03:02.0918443Z Hosted Compute Agent
+2025-06-30T03:03:02.0919517Z Version: 20250620.352
+2025-06-30T03:03:02.0920535Z Commit: f262f3aba23b10ea191b2a62bdee1ca4c3d344da
+2025-06-30T03:03:02.0921696Z Build Date: 2025-06-20T19:27:17Z
+2025-06-30T03:03:02.0922779Z ##[endgroup]
+2025-06-30T03:03:02.0923700Z ##[group]Operating System
+2025-06-30T03:03:02.0924825Z Ubuntu
+2025-06-30T03:03:02.0925755Z 24.04.2
+2025-06-30T03:03:02.0926486Z LTS
+2025-06-30T03:03:02.0927371Z ##[endgroup]
+2025-06-30T03:03:02.0928278Z ##[group]Runner Image
+2025-06-30T03:03:02.0929140Z Image: ubuntu-24.04
+2025-06-30T03:03:02.0929905Z Version: 20250622.1.0
+2025-06-30T03:03:02.0931741Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20250622.1/images/ubuntu/Ubuntu2404-Readme.md
+2025-06-30T03:03:02.0934695Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20250622.1
+2025-06-30T03:03:02.0936540Z ##[endgroup]
+2025-06-30T03:03:02.0940813Z ##[group]GITHUB_TOKEN Permissions
+2025-06-30T03:03:02.0943769Z Actions: write
+2025-06-30T03:03:02.0944895Z Attestations: write
+2025-06-30T03:03:02.0945708Z Checks: write
+2025-06-30T03:03:02.0946627Z Contents: write
+2025-06-30T03:03:02.0947538Z Deployments: write
+2025-06-30T03:03:02.0948407Z Discussions: write
+2025-06-30T03:03:02.0949307Z Issues: write
+2025-06-30T03:03:02.0950071Z Metadata: read
+2025-06-30T03:03:02.0950783Z Models: read
+2025-06-30T03:03:02.0951695Z Packages: write
+2025-06-30T03:03:02.0952513Z Pages: write
+2025-06-30T03:03:02.0953364Z PullRequests: write
+2025-06-30T03:03:02.0954686Z RepositoryProjects: write
+2025-06-30T03:03:02.0955738Z SecurityEvents: write
+2025-06-30T03:03:02.0956747Z Statuses: write
+2025-06-30T03:03:02.0957838Z ##[endgroup]
+2025-06-30T03:03:02.0960785Z Secret source: Actions
+2025-06-30T03:03:02.0961838Z Prepare workflow directory
+2025-06-30T03:03:02.1425133Z Prepare all required actions
+2025-06-30T03:03:02.1564601Z Complete job name: job2
+2025-06-30T03:03:02.2598741Z ##[group]Run echo Executing KodeKloud Lab 2
+2025-06-30T03:03:02.2600137Z echo Executing KodeKloud Lab 2
+2025-06-30T03:03:02.3145925Z shell: /usr/bin/bash -e {0}
+2025-06-30T03:03:02.3146927Z ##[endgroup]
+2025-06-30T03:03:02.3366098Z Executing KodeKloud Lab 2
+2025-06-30T03:03:02.3515909Z Cleaning up orphan processes
